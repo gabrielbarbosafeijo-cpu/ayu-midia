@@ -1,5 +1,5 @@
 {
-  "versao": 1,
+  "versao": 2,
   "geral": {
     "hero": {
       "arquivo": "hero.jpg",
@@ -9,66 +9,178 @@
       "arquivo": "logo-ayu.png"
     }
   },
-  "estrutura": [
+  "albuns": [
     {
-      "arquivo": "fachada/fachada-01.jpg",
-      "legenda": "Fachada",
-      "alt": "Fachada da Academia AYU, em Foz do Iguaçu"
+      "id": "fachada",
+      "titulo": "Fachada",
+      "fotos": [
+        {
+          "arquivo": "fachada/fachada-01.jpg",
+          "alt": "Fachada escura da AYU com vitrine e calçada de pedra, vista da rua"
+        },
+        {
+          "arquivo": "fachada/fachada-02.jpg",
+          "alt": "Entrada da Academia AYU, número 1014, com o logo circular na fachada"
+        }
+      ]
     },
     {
-      "arquivo": "recepcao/recepcao-01.jpg",
-      "legenda": "Recepção",
-      "alt": "Recepção da AYU com balcão e logo iluminado na parede"
+      "id": "recepcao",
+      "titulo": "Recepção",
+      "fotos": [
+        {
+          "arquivo": "recepcao/recepcao-01.jpg",
+          "alt": "Recepção da AYU com balcão de concreto claro e logo iluminado em verde na parede"
+        }
+      ]
     },
     {
-      "arquivo": "musculacao/musculacao-01.jpg",
-      "legenda": "Musculação",
-      "alt": "Salão de musculação com o logo AYU na parede verde"
+      "id": "musculacao",
+      "titulo": "Musculação",
+      "fotos": [
+        {
+          "arquivo": "musculacao/musculacao-01.jpg",
+          "alt": "Salão de musculação visto de cima, com o logo AYU na parede de grama verde"
+        },
+        {
+          "arquivo": "musculacao/musculacao-02.jpg",
+          "alt": "Estante de halteres com suporte verde no salão de musculação"
+        },
+        {
+          "arquivo": "musculacao/musculacao-03.jpg",
+          "alt": "Aparelhos de musculação sob iluminação em linhas de LED no teto de madeira"
+        },
+        {
+          "arquivo": "musculacao/musculacao-04.jpg",
+          "alt": "Estação de cabos de musculação em estrutura preta, com teto de madeira e LED"
+        },
+        {
+          "arquivo": "musculacao/musculacao-05.jpg",
+          "alt": "Aparelho de remada com banco marrom, pesos e escada de madeira ao fundo"
+        },
+        {
+          "arquivo": "musculacao/musculacao-06.jpg",
+          "alt": "Aparelhos de musculação em fila diante de parede branca com linhas decorativas"
+        },
+        {
+          "arquivo": "musculacao/musculacao-07.jpg",
+          "alt": "Salão de musculação com espelho e o logo AYU ao fundo"
+        },
+        {
+          "arquivo": "musculacao/musculacao-08.jpg",
+          "alt": "Máquina de musculação com anilhas e o logo AYU na parede ao fundo"
+        },
+        {
+          "arquivo": "musculacao/musculacao-09.jpg",
+          "alt": "Passagem com luz verde ao lado de halteres alinhados"
+        }
+      ]
     },
     {
-      "arquivo": "musculacao/musculacao-02.jpg",
-      "legenda": "Halteres",
-      "alt": "Estante de halteres no salão de musculação"
+      "id": "cardio",
+      "titulo": "Cardio",
+      "fotos": [
+        {
+          "arquivo": "cardio/cardio-01.jpg",
+          "alt": "Esteiras alinhadas diante da parede de grama verde"
+        },
+        {
+          "arquivo": "cardio/cardio-02.jpg",
+          "alt": "Fileira de esteiras no salão de cardio"
+        }
+      ]
     },
     {
-      "arquivo": "musculacao/musculacao-03.jpg",
-      "legenda": "Equipamentos",
-      "alt": "Equipamentos de musculação sob iluminação em linhas de LED"
+      "id": "descanso-massagem",
+      "titulo": "Descanso e massagem",
+      "fotos": [
+        {
+          "arquivo": "descanso-massagem/descanso-massagem-01.jpg",
+          "alt": "Cadeira de massagem marrom diante da parede com o logo AYU"
+        }
+      ]
     },
     {
-      "arquivo": "cardio/cardio-01.jpg",
-      "legenda": "Cardio",
-      "alt": "Esteiras alinhadas junto à parede verde"
+      "id": "biblioteca",
+      "titulo": "Biblioteca",
+      "fotos": [
+        {
+          "arquivo": "biblioteca/biblioteca-01.jpg",
+          "alt": "Estantes curvas de madeira com livros na biblioteca"
+        },
+        {
+          "arquivo": "biblioteca/biblioteca-02.jpg",
+          "alt": "Divisória com plantas, livros e uma vitrola antiga na biblioteca"
+        },
+        {
+          "arquivo": "biblioteca/biblioteca-03.jpg",
+          "alt": "Ambiente de leitura com sofá junto à janela e estantes de madeira"
+        },
+        {
+          "arquivo": "biblioteca/biblioteca-04.jpg",
+          "alt": "Estante de madeira com livros ao lado de um sofá verde"
+        },
+        {
+          "arquivo": "biblioteca/biblioteca-05.jpg",
+          "alt": "Estante de madeira com placa de bronze da AYU na parede"
+        }
+      ]
     },
     {
-      "arquivo": "descanso-massagem/descanso-massagem-01.jpg",
-      "legenda": "Descanso e massagem",
-      "alt": "Cadeira de massagem diante do logo AYU"
+      "id": "lounge",
+      "titulo": "Lounge",
+      "fotos": [
+        {
+          "arquivo": "lounge/lounge-01.jpg",
+          "alt": "Sofá verde e máquina de café no lounge"
+        },
+        {
+          "arquivo": "lounge/lounge-02.jpg",
+          "alt": "Prateleira de madeira iluminada com acessórios no lounge"
+        }
+      ]
     },
     {
-      "arquivo": "biblioteca/biblioteca-01.jpg",
-      "legenda": "Biblioteca",
-      "alt": "Estantes de madeira com livros na biblioteca da AYU"
+      "id": "apoio",
+      "titulo": "Apoio ao treino",
+      "fotos": [
+        {
+          "arquivo": "apoio/apoio-01.jpg",
+          "alt": "Geladeira vertical com garrafas de água ao lado de prateleira de toalhas"
+        },
+        {
+          "arquivo": "apoio/apoio-02.jpg",
+          "alt": "Prateleira curva de madeira com toalhas enroladas e relógio digital"
+        },
+        {
+          "arquivo": "apoio/apoio-03.jpg",
+          "alt": "Área de apoio com iluminação verde, toalhas e halteres"
+        }
+      ]
     },
     {
-      "arquivo": "biblioteca/biblioteca-02.jpg",
-      "legenda": "Biblioteca",
-      "alt": "Estante com plantas e vitrola na biblioteca"
+      "id": "banheiros",
+      "titulo": "Banheiros",
+      "fotos": [
+        {
+          "arquivo": "banheiros/banheiros-01.jpg",
+          "alt": "Bancada de pedra com duas cubas pretas e espelhos nos banheiros"
+        },
+        {
+          "arquivo": "banheiros/banheiros-02.jpg",
+          "alt": "Banheiro com parede de plantas, bancada e espelhos redondos"
+        }
+      ]
     },
     {
-      "arquivo": "lounge/lounge-01.jpg",
-      "legenda": "Lounge",
-      "alt": "Sofá verde e máquina de café no lounge"
-    },
-    {
-      "arquivo": "apoio/apoio-01.jpg",
-      "legenda": "Apoio ao treino",
-      "alt": "Geladeira de água e prateleira de toalhas"
-    },
-    {
-      "arquivo": "banheiros/banheiros-01.jpg",
-      "legenda": "Banheiros",
-      "alt": "Bancada com cubas e espelhos nos banheiros"
+      "id": "salas",
+      "titulo": "Salas",
+      "fotos": [
+        {
+          "arquivo": "salas/salas-01.jpg",
+          "alt": "Sala reservada com mesa de madeira, cadeiras e cortina"
+        }
+      ]
     }
   ],
   "professores": [
