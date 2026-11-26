@@ -1,0 +1,100 @@
+{
+  "versao": 1,
+  "geral": {
+    "hero": {
+      "arquivo": "hero.jpg",
+      "alt": "Recepção da Academia AYU com o logo iluminado"
+    },
+    "logo": {
+      "arquivo": null
+    }
+  },
+  "estrutura": [
+    {
+      "arquivo": "fachada/fachada-01.jpg",
+      "legenda": "Fachada",
+      "alt": "Fachada da Academia AYU, em Foz do Iguaçu"
+    },
+    {
+      "arquivo": "recepcao/recepcao-01.jpg",
+      "legenda": "Recepção",
+      "alt": "Recepção da AYU com balcão e logo iluminado na parede"
+    },
+    {
+      "arquivo": "musculacao/musculacao-01.jpg",
+      "legenda": "Musculação",
+      "alt": "Salão de musculação com o logo AYU na parede verde"
+    },
+    {
+      "arquivo": "musculacao/musculacao-02.jpg",
+      "legenda": "Halteres",
+      "alt": "Estante de halteres no salão de musculação"
+    },
+    {
+      "arquivo": "musculacao/musculacao-03.jpg",
+      "legenda": "Equipamentos",
+      "alt": "Equipamentos de musculação sob iluminação em linhas de LED"
+    },
+    {
+      "arquivo": "cardio/cardio-01.jpg",
+      "legenda": "Cardio",
+      "alt": "Esteiras alinhadas junto à parede verde"
+    },
+    {
+      "arquivo": "descanso-massagem/descanso-massagem-01.jpg",
+      "legenda": "Descanso e massagem",
+      "alt": "Cadeira de massagem diante do logo AYU"
+    },
+    {
+      "arquivo": "biblioteca/biblioteca-01.jpg",
+      "legenda": "Biblioteca",
+      "alt": "Estantes de madeira com livros na biblioteca da AYU"
+    },
+    {
+      "arquivo": "biblioteca/biblioteca-02.jpg",
+      "legenda": "Biblioteca",
+      "alt": "Estante com plantas e vitrola na biblioteca"
+    },
+    {
+      "arquivo": "lounge/lounge-01.jpg",
+      "legenda": "Lounge",
+      "alt": "Sofá verde e máquina de café no lounge"
+    },
+    {
+      "arquivo": "apoio/apoio-01.jpg",
+      "legenda": "Apoio ao treino",
+      "alt": "Geladeira de água e prateleira de toalhas"
+    },
+    {
+      "arquivo": "banheiros/banheiros-01.jpg",
+      "legenda": "Banheiros",
+      "alt": "Bancada com cubas e espelhos nos banheiros"
+    }
+  ],
+  "professores": [
+    {
+      "nome": "Carlos",
+      "funcao": "Personal",
+      "arquivo": "carlos.jpg",
+      "alt": "Carlos, personal"
+    },
+    {
+      "nome": "Lucas",
+      "funcao": "Personal",
+      "arquivo": "lucas.jpg",
+      "alt": "Lucas, personal"
+    },
+    {
+      "nome": "Juliane",
+      "funcao": "Personal",
+      "arquivo": "juliane.jpg",
+      "alt": "Juliane, personal"
+    },
+    {
+      "nome": "André",
+      "funcao": "Personal e dono",
+      "arquivo": "andre.jpg",
+      "alt": "André, personal e dono da AYU"
+    }
+  ]
+}
