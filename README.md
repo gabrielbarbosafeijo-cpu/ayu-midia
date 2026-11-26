@@ -8,7 +8,7 @@ Fotos e legendas do site da Academia AYU. O site lê o arquivo `fotos.json` dest
 
 | Pasta | Conteúdo |
 |---|---|
-| `geral/` | `hero.jpg` (foto principal, horizontal) e, quando existir, `logo-ayu.png` |
+| `geral/` | `hero.jpg` (foto principal, horizontal) e `logo-ayu.png` (logo circular) |
 | `estrutura/fachada/` | frente da academia |
 | `estrutura/recepcao/` | recepção |
 | `estrutura/musculacao/` | salão de musculação e halteres |

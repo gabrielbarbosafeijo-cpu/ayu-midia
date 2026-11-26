@@ -6,7 +6,7 @@
       "alt": "Recepção da Academia AYU com o logo iluminado"
     },
     "logo": {
-      "arquivo": null
+      "arquivo": "logo-ayu.png"
     }
   },
   "estrutura": [
@@ -88,7 +88,7 @@
       "nome": "Juliane",
       "funcao": "Personal",
       "arquivo": "juliane.jpg",
-      "alt": "Juliane, personal"
+      "alt": "Juliane, personal da AYU, ao lado de equipamento de musculação"
     },
     {
       "nome": "André",
